@@ -41,7 +41,6 @@ public class RaporMain
 		raport.SetPelajaran("FoCS");
 		raport.SetPelajaran("MAT");
 		raport.Display();
-		raport.Display(); //nyoba ganti
 
 		// for(int i=0; i<3; i++)
 		// {
